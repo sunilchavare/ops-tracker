@@ -9,7 +9,7 @@ Startups need visibility into operations without bloated tools or dashboards.
 
 ## Tech stack
 - Backend: Node.js + Express
-- Frontend: React (or your choice)
-- Database: TBD (Postgres, SQLite, or MongoDB)
+- Frontend: React,Tailwind CSS
+- Database:Postgres
 - Dev: Git, VSCode, Postman
 
